@@ -1,0 +1,24 @@
+.container {
+    text-align: center;
+
+}
+
+.Gallery-view {
+    width: 133px;
+    height: 163px;
+}
+
+#h3 {
+    color: coral;
+    font-family: 'Lobster', cursive;
+}
+
+#h2 {
+    color: antiquewhite;
+    font-family: 'Akaya Kanadaka', cursive;
+}
+
+body {
+    text-align: center;
+    background-image: linear-gradient(rgb(7, 206, 196), rgb(233, 119, 253), rgb(135, 79, 255));
+}
